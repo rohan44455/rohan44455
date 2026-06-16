@@ -20,8 +20,8 @@ Hi 👋, I'm Rohan Kumar<br><br>🎓 B.Sc. Information Technology at PTU, Punjab
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rohan44455&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Arjun-Maurya-78&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arjun-Maurya-78&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=rohan44455&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohan44455&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 > ⭐ *"Without data, you're just another person with an opinion."*
