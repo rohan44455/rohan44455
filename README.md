@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Rohan Kumar<br><br>🎓 B.Sc. Information Technology at PTU, Punjab<br>📊 Aspiring Data Analyst | Turning data into insights<br>🚀 Passionate about dashboards, analytics & storytelling with data<br>📈 Proficient in Power BI, Tableau, and Advance Excel<br>🔍 Solving real-world problems using data | Building dashboards in Power BI & Tableau<br>🐍 Learning Python (Pandas, NumPy, Matplotlib) | Strong in SQL & Data Visualization<br>🎯 Goal: Data Analyst in a product-based organization
+Hi 👋, I'm Rohan Kumar<br><br>🎓 B.Sc. Information Technology at PTU, Punjab<br>📊 Aspiring Data Analyst | Turning data into insights<br>🚀 Passionate about dashboards, analytics & storytelling with data<br>📈 Proficient in Power BI, Tableau, and Advance Excel<br>🔍 Solving real-world problems using data | Building dashboards in Power BI & Tableau<br>🐍 Learning Python (Pandas, NumPy, Matplotlib) & SQL | Strong in Advance Excel & Data Visualization<br>🎯 Goal: Data Analyst in a product-based organization
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan6151)
