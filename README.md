@@ -11,11 +11,11 @@ Hi 👋, I'm Rohan Kumar<br><br>🎓 B.Sc. Information Technology at PTU, Punjab
 # 🚀 Projects:
 ###🎓 College Student Analytics(Power-BI)
 > A dataset of **2,000 college students** covering academics, finances, wellness, and career outcomes across 31 attributes for AY 2024–25. [Project Link](https://github.com/rohan44455/-College-Student-Analytics-Dashboard/tree/main)
-<!--### 🛒 E-commerce Data Analysis
-> Cleaned & analyzed dataset using Python · Pandas for preprocessing · Insights on customer behavior · 📌 Python, Pandas, Matplotlib · [🔗 Project Link](#)
+### 🚗 Car Sales & Dealership Analysis Dashboard
+> A comprehensive 3-page Power BI dashboard analyzing car sales performance, customer behavior, dealership metrics, geography, pricing, and salesperson effectiveness across India — built on a dataset of 200 car sales transactions. [🔗 Project Link](https://github.com/rohan44455/-Car-Sales-Dealership-Analysis-Dashboard)
 
-### 📈 SQL Data Analysis
-> Joins, subqueries & aggregations · Solved business case problems · 📌 MySQL · [🔗 Project Link](#)
+### 🏠 Real Estate Market Analytics Dashboard (2021–2025)
+> *A Power BI dashboard analyzing 560 real estate transactions across 8 U.S. cities (2021–2025), tracking sales volume, pricing trends, and agent commissions.** It provides interactive insights into property performance, market tier behavior, and Days-on-Market metrics to support data-driven real estate decision-making.· [🔗 Project Link](https://github.com/rohan44455/-Real-Estate-Market-Analytics-Dashboard)
 -->
 
 # 📊 GitHub Stats:
